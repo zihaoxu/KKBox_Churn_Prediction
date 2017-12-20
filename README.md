@@ -3,7 +3,7 @@
 Group member: Zihao Xu, Xiaotong gui, Minh-Quan Do
 
 # Abstract  
-In this paper, we aim to document our methodologies in approaching the KKBox Churning Prediction Challenge. This challenge is essentially a classification problem, but the response variable is highly imbalanced. In the below sections, we will describe and visually explore the data sets. Then we will talk about several machine learning models we employed that are highly suitable for handling imbalanced data. Our current ranking on Kaggle is 136 out of 535, achieved by the XGBoost model.
+In this repository, we aim to document our methodologies in approaching the KKBox Churning Prediction Challenge. This challenge is essentially a classification problem, but the response variable is highly imbalanced. In the below sections, we will describe and visually explore the data sets. Then we will talk about several machine learning models we employed that are highly suitable for handling imbalanced data. Our current ranking on Kaggle is 136 out of 535, achieved by the XGBoost model.
 
 # Paper & Presentation  
 ### Paper:  
