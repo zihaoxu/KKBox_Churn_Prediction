@@ -7,7 +7,7 @@ In this repository, we aim to document our methodologies in approaching the KKBo
 
 # Paper & Presentation  
 ### Paper:  
-https://goo.gl/HB6MQx
+https://goo.gl/sxwdL9  
 ### Presentation:  
 https://goo.gl/sQMLEa
 
